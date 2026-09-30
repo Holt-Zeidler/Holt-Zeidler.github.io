@@ -10,7 +10,7 @@ about:
       href: https://github.com/Holt-Zeidler
     - icon: linkedIn
       text: LinkedIn
-      href: https://linkedIn.com/in/Holt Zeidler
+      href: https://www.linkedin.com/in/holt-zeidler-27406537a/?isSelfProfile=true
     - icon: inboxes
       text: Contact
       href: mailto:hzeidler@uark.edu
