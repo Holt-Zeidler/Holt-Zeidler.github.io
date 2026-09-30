@@ -1,5 +1,12 @@
 ---
 title: "Project"
+listing:
+  contents: post
+  sort: "date"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
-
-listing: content: posts sort: "date" type: grid categories: false filter-ui: false page-layout: full title-black-banner: true ---

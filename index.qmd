@@ -1,7 +1,7 @@
 ---
 title: "Holt Zeidler"
 image: IMG_2174.jpeg
-description: "Sophmore Industrial enginerering major.  I am apart of the Air Force ROTC here and also apart of some other clubs."
+description: "Sophmore Industrial enginerering major.  I am apart of the Air Force ROTC.  I have some great chances to be a leader.  My biggest project so far is me and 2 others orginizing the 9/11 stair climb through AFROTC for the university of Arkansas.  It was a successful event with approimatly 1500 participants.  I have strive for execlence in everything I do.  From carring a 4.0 GPA in school or getting a 100 percent on my physical fitness test for AFROTC."
 about:
   template: jolla
   links:

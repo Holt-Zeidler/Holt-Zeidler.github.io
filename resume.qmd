@@ -1,7 +1,8 @@
 ---
 title: "resume"
+format: html
 ---
 
-\<iframe width="800" height"1000" scr="Holt_Zeidler_Resume.pdf"\>
+<iframe src= "Holt_resume_Current.pdf" width="100%" height="800px" style="border:none;">
 
 </iframe>

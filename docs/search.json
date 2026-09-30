@@ -4,7 +4,7 @@
     "href": "resume.html",
     "title": "resume",
     "section": "",
-    "text": "&lt;iframe width=“800” height”1000” scr=“Holt_Zeidler_Resume.pdf”&gt;"
+    "text": "&lt;iframe width=“800” height=“1000” src=“Holt_resume_Current.pdf”&gt;"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -32,6 +32,6 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "listing: content: posts sort: “date” type: grid categories: false filter-ui: false page-layout: full title-black-banner: true —"
+    "text": "No matching items"
   }
 ]
